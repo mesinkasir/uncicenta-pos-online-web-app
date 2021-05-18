@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# UNICENTAPOS WEB APPS BACKOFFICE USING REACT
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/uncicenta-pos-online-web-app/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Unicenta frontend backoffice dashbaord develope using react.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tes drive before [download here → ](https://unicentapos.vercel.app/)
 
-### Markdown
+How to install web app ?? just read documentation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[https://www.hockeycomputindo.com/2021/02/unincenta-opos-web-app-react-include.html](https://www.hockeycomputindo.com/2021/02/unincenta-opos-web-app-react-include.html)
 
-```markdown
-Syntax highlighted code block
+[Watch Video → ](https://youtu.be/pI9wFIF0W2c)
 
-# Header 1
-## Header 2
-### Header 3
+-----------------------------------------
 
-- Bulleted
-- List
+Display
 
-1. Numbered
-2. List
+![Unicenta online web apps apk android](https://1.bp.blogspot.com/-LQPEk12RtBc/YDdfun-KlvI/AAAAAAAANHA/cXNhRAfIRHEoAjXBfnFiK6l4kAUniLlbQCLcBGAsYHQ/s1366/unicenta%2BAPK%2Bandroid%2Bonline%2Bweb%2Bapp%2B%25286%2529.png)
 
-**Bold** and _Italic_ and `Code` text
+Home Page
 
-[Link](url) and ![Image](src)
-```
+![Unicenta online web apps apk android](https://1.bp.blogspot.com/-B8P0TEeiojA/YDdfunXOSkI/AAAAAAAANG8/CNgNGa9kMW0EQF-1MtRhusp-4YdUFcT4QCLcBGAsYHQ/s1366/unicenta%2BAPK%2Bandroid%2Bonline%2Bweb%2Bapp%2B%25285%2529.png)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+User
 
-### Jekyll Themes
+![Unicenta online web apps apk android](https://1.bp.blogspot.com/-AMFt1-dNBb0/YDdfuJ8510I/AAAAAAAANG4/rknRW9Ched8tgUfCj0BW1oiHPAzTcdeJQCLcBGAsYHQ/s1366/unicenta%2BAPK%2Bandroid%2Bonline%2Bweb%2Bapp%2B%25284%2529.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/uncicenta-pos-online-web-app/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Cost Price
 
-### Support or Contact
+![Unicenta online web apps apk android](https://1.bp.blogspot.com/-R4WisndjmSs/YDdft-zEF-I/AAAAAAAANG0/FWINPRg1HPMbebEpAv3pFo4GQs3OOx80gCLcBGAsYHQ/s1366/unicenta%2BAPK%2Bandroid%2Bonline%2Bweb%2Bapp%2B%25283%2529.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Price List
+
+![Unicenta online web apps apk android](https://1.bp.blogspot.com/-i2W-vuXsuZI/YDdftkRwpbI/AAAAAAAANGw/bXX7_GxYuqorqGduHebiUqfzhueOMa0PACLcBGAsYHQ/s1366/unicenta%2BAPK%2Bandroid%2Bonline%2Bweb%2Bapp%2B%25282%2529.png)
+
+Income report
+
+![Unicenta online web apps apk android](https://1.bp.blogspot.com/-j_Y7lHlvXQ4/YDdfs0CTFLI/AAAAAAAANGs/Jpk7q50xBfYEElY9f44gU_8W2M6Cx3sGACLcBGAsYHQ/s1349/unicenta%2BAPK%2Bandroid%2Bonline%2Bweb%2Bapp%2B%25281%2529.png)
+
+Close Cash
+
+![Unicenta online web apps apk android](https://1.bp.blogspot.com/-Udec_V8ucEw/YDdfsz6uAxI/AAAAAAAANGo/H9UOZUfgQ9s346L5cys0zs9sNc_IEvo9QCLcBGAsYHQ/s1280/unicenta%2BAPK%2Bandroid%2Bonline%2Bweb%2Bapp%2B%25282%2529.jpeg)
+
+ANdroid APK Ready
+
+![Unicenta online web apps apk android](https://1.bp.blogspot.com/-67-4g3NaewY/YDdfs_C9FZI/AAAAAAAANGk/b7yTgJm0E6cPQtWAMUCkmU68rGmTLUE1wCLcBGAsYHQ/s1280/unicenta%2BAPK%2Bandroid%2Bonline%2Bweb%2Bapp%2B%25281%2529.jpeg)
+
+Unicentapos on android APK
+
+-------------------------------------------------------
+
+How to install web app ?? just read documentation
+
+[https://www.hockeycomputindo.com/2021/02/unincenta-opos-web-app-react-include.html](https://www.hockeycomputindo.com/2021/02/unincenta-opos-web-app-react-include.html)
+
+[Watch Video → ](https://youtu.be/pI9wFIF0W2c)
+
+------------------------------------
+
+### Buy me a coffee :hearts: ✌🏻
+
+:coffee: :coffee: :coffee: 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
